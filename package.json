@@ -1,11 +1,12 @@
 {
-  "name": "@pablokaua",
+  "name": "pablokaua",
   "version": "1.0.0",
   "description": "A personal card business for Pablo Kaua (@pablokaua)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./cli.js",
   "keywords": [
     "pablokaua",
     "Pablo Kaua",
