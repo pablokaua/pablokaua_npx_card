@@ -11,6 +11,10 @@
     "Pablo Kaua",
     "pablokaua card"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pablokaua/pablokaua_npx_card.git"
+  },
   "author": "Pablo Kauã <pablokauaah@gmail.com>",
   "license": "ISC",
   "dependencies": {
